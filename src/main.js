@@ -13,3 +13,5 @@ import ChinaMap from './components/ChinaMap'
 // })
 
 Vue.component('ChinaMap', ChinaMap)
+
+export default ChinaMap;
