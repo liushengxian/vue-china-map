@@ -1,7 +1,7 @@
 {
   "name": "vue-china-map",
   "description": "vue.js china map plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "liushengxian <liushengxian1230@163.com>",
   "license": "MIT",
   "main": "dist/build.js",
