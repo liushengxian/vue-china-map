@@ -2,17 +2,18 @@
 
 > vue.js china map plugin
 
-## Build Setup
+练手项目。
 
-``` bash
-# install dependencies
-npm install
+# 版权
 
-# serve with hot reload at localhost:8080
-npm run dev
+仅供学习使用。使用HighCharts的组件Highmap绘制 
 
-# build for production with minification
-npm run build
-```
+# 欢迎提PR
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+只是先挖个坑。我改不改看心情= =。欢迎大家来改。
+
+
+
+# 个人网站
+
+[https://misanya.com](https://misanya.com)
